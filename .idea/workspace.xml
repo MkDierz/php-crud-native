@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bd80bdd-3c29-4ed7-ba70-c64a10d2c8bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="0f4d5597-f2fb-49fb-859b-6067992478e9" name="localhost" use_path_mappings="true" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1uwj4e3nmwLXcinVYzjegN23b38" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Unive" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" nameIsGenerated="true" server_name="localhost" start_url="/Unive">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bd80bdd-3c29-4ed7-ba70-c64a10d2c8bc" name="Default Changelist" comment="" />
+      <created>1625583355836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625583355836</updated>
+      <workItem from="1625583356953" duration="1778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="197" key="#PHP" timestamp="1625584036096">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="667" y="197" key="#PHP/0.30.1920.1050@0.30.1920.1050" timestamp="1625584036096" />
+    <state x="336" y="396" key="#SQL_Dialects" timestamp="1625583450084">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="336" y="396" key="#SQL_Dialects/0.30.1920.1050@0.30.1920.1050" timestamp="1625583450084" />
+    <state x="540" y="221" key="#Servers" timestamp="1625583938143">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="540" y="221" key="#Servers/0.30.1920.1050@0.30.1920.1050" timestamp="1625583938143" />
+    <state x="757" y="355" key="#Web_Browsers" timestamp="1625583974478">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="757" y="355" key="#Web_Browsers/0.30.1920.1050@0.30.1920.1050" timestamp="1625583974478" />
+    <state x="414" y="209" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625584028953">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="414" y="209" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1625584028953" />
+    <state x="740" y="321" key="FileChooserDialogImpl" timestamp="1625583996502">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="740" y="321" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1625583996502" />
+  </component>
+</project>
